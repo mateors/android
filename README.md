@@ -3,6 +3,9 @@ Android adb command
 
 ## Teach Yourself VISUALLY Android Phones and Tablets (2nd Edition)
 * https://book4you.org/book/3324431/ea5e5b
+## More Books
+* https://book4you.org/book/16582097/c33d1a
+* https://book4you.org/book/16292294/f34c8b?dsource=recommend
 
 ## Tool
 https://mirror.droidfeats.com/wp-content/uploads/2018/07/ADB-devices.jpg
